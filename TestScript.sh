@@ -10,5 +10,3 @@ npm install --no-audit
 npm install pm2 -g
 pm2 start index.js
 pm2 save
-sudo amazon-linux-extras install nginx1 -y
-sudo chkconfig nginx on
